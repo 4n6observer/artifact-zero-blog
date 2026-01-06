@@ -1,0 +1,8 @@
+baseURL = 'https://4n6.observer/'
+languageCode = 'it-it'
+title = 'Artifact Zero'
+theme = 'ananke' # Useremo un tema standard per il primo test
+
+[params]
+  description = 'Digital & Mobile Forensics Insights by Observer Zero'
+  author = 'Observer Zero'
