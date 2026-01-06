@@ -1,0 +1,13 @@
+# Cartella di output
+public/
+resources/_gen/
+assets/jsconfig.json
+node_modules/
+
+# File temporanei e di sistema
+.DS_Store
+Thumbs.db
+hugo_stats.json
+
+# Backup e log
+*.log
